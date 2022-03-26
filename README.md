@@ -1,7 +1,7 @@
 ### Hi, Szymon There 👋
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+⚡ Recent Activity
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 ![ReGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=regi669&show_icons=true&theme=dracula)
 
