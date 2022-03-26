@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Upadte Readme
 
 on:
   workflow_dispatch:
@@ -7,11 +7,19 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: regi669
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
