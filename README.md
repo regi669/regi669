@@ -1,7 +1,7 @@
 ### Hi, Szymon There 👋
 
 ⚡ Recent Activity
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--START_SECTION:activity-->
 
 ![ReGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=regi669&show_icons=true&theme=dracula)
 
