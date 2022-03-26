@@ -1,3 +1,4 @@
+[![Visits Badge](https://badges.pufler.dev/visits/regi669/regi669)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/regi669)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/regi669)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/regi669)](https://badges.pufler.dev)
 ### Hi, Szymon There 👋
 
 ## ⚡ Recent Activity
