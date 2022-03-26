@@ -1,13 +1,7 @@
 ### Hi, Szymon There 👋
 
-⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/regi669/regi669/pull/1) in [regi669/regi669](https://github.com/regi669/regi669)
-2. ❌ Reopened PR [#1](https://github.com/regi669/regi669/pull/1) in [regi669/regi669](https://github.com/regi669/regi669)
-3. ❌ Closed PR [#1](https://github.com/regi669/regi669/pull/1) in [regi669/regi669](https://github.com/regi669/regi669)
-4. 🗣 Commented on [#1](https://github.com/regi669/regi669/issues/1) in [regi669/regi669](https://github.com/regi669/regi669)
-5. 💪 Opened PR [#1](https://github.com/regi669/regi669/pull/1) in [regi669/regi669](https://github.com/regi669/regi669)
-<!--END_SECTION:activity-->
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
 ![ReGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=regi669&show_icons=true&theme=dracula)
 
