@@ -1,7 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/regi669/regi669)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/regi669)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/regi669)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/regi669)](https://badges.pufler.dev)
-### Hi, Szymon There 👋
 
-## ⚡ Recent Activity
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Hi%2C+Szymon+There+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=%E2%9A%A1+Recent+Activity)](https://git.io/typing-svg)
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/regi669/regi669/pull/1) in [regi669/regi669](https://github.com/regi669/regi669)
 2. ❌ Reopened PR [#1](https://github.com/regi669/regi669/pull/1) in [regi669/regi669](https://github.com/regi669/regi669)
@@ -10,12 +10,12 @@
 5. 💪 Opened PR [#1](https://github.com/regi669/regi669/pull/1) in [regi669/regi669](https://github.com/regi669/regi669)
 <!--END_SECTION:activity-->
 
-## My Github Stats
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+Github+Stats)](https://git.io/typing-svg)
 ![ReGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=regi669&show_icons=true&theme=dracula)
 
-## My Most Used Langs
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+Most+Used+Langs)](https://git.io/typing-svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regi669&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Google Certificate
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+Google+Certificate)](https://git.io/typing-svg)
 ![Google Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45373587)
 
