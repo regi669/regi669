@@ -1,4 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/regi669/regi669)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/regi669)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/regi669)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/regi669)](https://badges.pufler.dev)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Hi%2C+Szymon+There+%F0%9F%91%8B)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=%E2%9A%A1+Recent+Activity)](https://git.io/typing-svg)
